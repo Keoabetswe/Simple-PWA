@@ -1,5 +1,5 @@
 # Simple-PWA
-Simple Progressive Web App built following a FreeCodeCamp blog
+Simple Progressive Web App built following a <a href="https://www.freecodecamp.org/news/build-a-pwa-from-scratch-with-html-css-and-javascript/">FreeCodeCamp blog</a>
 
 ## PWA Abilities
 - To install it on a mobile home screen
